@@ -8,6 +8,7 @@ using Microsoft.Extensions.Hosting;
 
 namespace netCore.Snippets
 {
+    //test
     public class Startup
     {
         public Startup(IConfiguration configuration)
